@@ -9,6 +9,7 @@ Código fuente Phython de la aplicación presentada en el artículo: J. M. Luna,
  ├── discover_rules.py      # Script SD-DFPTRee secuencial descubrir reglas  
  ├── sd_dfptree.py          # Script SD-DFPTRee Spark descubrir reglas  
  ├── postprocess_rules.py   # Script para el posprocesamiento de reglas  
+ data/                      # Datasets utilizados  
 
 ## Instalación
 Clona el repositorio 
@@ -21,6 +22,7 @@ Instala las dependencias utilizando:
 ```
 pip install -r requirements.txt`
 ```
+Copiar en el directorio data el dataset a utilizar
 
 ## Uso
 
